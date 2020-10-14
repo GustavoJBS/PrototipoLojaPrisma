@@ -44,7 +44,7 @@ Protótipo Loja Prisma-Loja de Vestuário e acessórios. Feito no Adobe XD
 
 <br>
 
- <p align="center" style="border-radius: 25px; ">
+ <p align="center" style="border-radius: 25px;background-color: coral ">
   <img  src="https://github.com/GustavoJBS/PrototipoLojaPrisma/blob/main/Prints/Carrinho.png" width="350" alt="accessibility text">
 </p>
 <p align="center">Tela Carrinho</p>
