@@ -38,7 +38,7 @@ Protótipo Loja Prisma-Loja de Vestuário e acessórios. Feito no Adobe XD
 <br>
 
  <p align="center" style="border-radius: 25px; ">
-  <img  src="https://github.com/GustavoJBS/PrototipoLojaPrisma/blob/main/Prints/Pesquisa.png" width="350" alt="accessibility text">
+  <img  src="https://github.com/GustavoJBS/PrototipoLojaPrisma/blob/main/Prints/Pesquisa.png" width="350" style="border solid 1px" alt="accessibility text">
 </p>
 <p align="center">Tela Pesquisa</p>
 
